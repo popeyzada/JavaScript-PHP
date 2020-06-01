@@ -2,4 +2,4 @@
 
 Aprendendo nas artimanhas desse baguio junto com um viadao
 
-<button class="btn btn-orange" type="button">Button button</button>
+<input class="button" type="submit" value="Post comment (input)">
