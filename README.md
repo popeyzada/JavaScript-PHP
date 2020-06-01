@@ -2,4 +2,4 @@
 
 Aprendendo nas artimanhas desse baguio junto com um viadao
 
-<button class="button" type="submit">Post comment (button)</button>
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
